@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sabalax.ml)
 <h1 align="center">Hi 👋, I'm Samet Gurtuna</h1>
-<h3 align="center">A passionate frontend developer, game developer and programmer from Turkey</h3>
+<h3 align="center">A passionate frontend developer, game developer and full stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabalax&label=Profile%20views&color=0e75b6&style=flat" alt="sabalax" /> </p>
@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/sabalaxx" target="blank"><img src="https://img.shields.io/twitter/follow/sabalaxx?logo=twitter&style=for-the-badge" alt="sabalaxx" /></a> </p>
 
 
-- 🌱 I’m currently learning **C++ , JavaScript, Java**
-
-- 👨‍💻 All of my projects are available at [sabalax.ml](sabalax.ml)
+- 🌱 I’m currently learning **C++ , JavaScript, Dart**
 
 - 📫 How to reach me **sametgrtna@gmail.com**
 
