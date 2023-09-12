@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabalax&label=Profile%20views&color=0e75b6&style=flat" alt="sabalax" /> </p>
 # 💫 About Me:
-🌱 "Currently, I am majoring in Digital Game Design at the Faculty of Arts and Design at Doğuş University, and I am learning German.""
+🌱 "Currently, I am majoring in Digital Game Design at the Faculty of Arts and Design at Doğuş University, and I am learning German."
 
 
 
@@ -26,7 +26,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 
