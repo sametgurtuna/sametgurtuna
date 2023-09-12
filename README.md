@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabalax&label=Profile%20views&color=0e75b6&style=flat" alt="sabalax" /> </p>
 # 💫 About Me:
-🌱 I’m currently learning  C++ , JavaScript, Dart<br>
+🌱 "I'm currently studying at Doğuş University's Faculty of Digital Game Design and learning German."
+
+
+
+
+<br>
 
 
 ## 🌐 Socials:
