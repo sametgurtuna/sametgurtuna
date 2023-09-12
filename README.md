@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabalax&label=Profile%20views&color=0e75b6&style=flat" alt="sabalax" /> </p>
 # 💫 About Me:
-🌱 "I'm currently studying at Doğuş University's Faculty of Digital Game Design and learning German."
+🌱 "Currently, I am majoring in Digital Game Design at the Faculty of Arts and Design at Doğuş University, and I am learning German.""
 
 
 
