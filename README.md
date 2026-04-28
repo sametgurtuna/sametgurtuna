@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Samet%20Gürtuna&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Game%20Design%20Student%20•%20Builder%20•%20AI-curious%20Developer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Samet%20Gürtuna&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🎮%20Game%20Developer%20•%20Digital%20Game%20Design%20Student%20•%20World%20Builder&descAlignY=56&descSize=16" width="100%" />
 
 <a href="https://sametgurtuna.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Samet+%F0%9F%91%8B;I+build+local-first+%26+AI-powered+apps;Currently+shipping+with+Tauri+%2B+Rust+%2B+React;Always+learning%2C+always+shipping+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Samet+%F0%9F%91%8B;Game+Developer+%26+Design+Student+%F0%9F%8E%AE;I+craft+interactive+experiences+with+Unity+%26+Unreal;Also+building+local-first+AI+tools+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8" />
 </a>
 
 <br/>
@@ -18,32 +18,85 @@
 
 <br/>
 
-## 🧑‍💻 &nbsp;whoami
+## 🎮 &nbsp;Player 1: Samet
 
 ```ts
 const samet = {
-  location:    "Istanbul, Türkiye 🏠",
-  education:   "Halic University — Digital Game Design",
-  experience:  "~6 years writing code",
-  buildingNow: ["LocalMind", "github-rater", "CS2STATS"],
-  passions:    ["local-first software", "AI tooling", "thoughtful UX"],
-  learning:    ["Rust 🦀", "Tauri", "vector search & embeddings"],
-  openTo:      ["collabs", "internships", "freelance projects"],
-  motto:       "Ship things people actually want to use."
+  role:         "🎮 Game Developer",
+  education:    "Halic University — Digital Game Design",
+  location:     "Istanbul, Türkiye 🏠",
+  experience:   "~6 years coding • building worlds, mechanics & feel",
+  craftingNow:  ["game prototypes 🎲", "LocalMind", "tools devs actually want"],
+  fascinatedBy: ["game feel", "level design", "interactive storytelling", "AI in games"],
+  alsoInto:     ["local-first software", "desktop apps", "AI tooling"],
+  learning:     ["Unreal Engine", "shader programming", "Rust 🦀"],
+  openTo:       ["studio internships", "indie collabs", "freelance gigs"],
+  motto:        "Make players feel something. The rest is just engineering."
 };
 ```
 
 <br/>
 
-## 🛠️ &nbsp;The Stack I Live In
+## 🕹️ &nbsp;Game Dev Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎮 Engines**
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot&perline=4" />
+
+<sub>Unity • Unreal Engine • Godot</sub>
+
+</td>
+<td align="center" width="50%">
+
+**🎨 Art & Design**
+
+<img src="https://skillicons.dev/icons?i=blender,figma,ps&perline=4" />
+
+<sub>Blender • Aseprite • Figma • Photoshop</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**⚔️ Game Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,c&perline=4" />
+
+<sub>C# (Unity) • C++ (Unreal) • C</sub>
+
+</td>
+<td align="center">
+
+**🎯 Genres I Love Designing**
+
+`Action` `Roguelike` `Puzzle`
+<br/>
+`Narrative` `2D Platformer` `Strategy`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🧰 &nbsp;Beyond the Engine
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-**🧬 Languages**
+**🧬 Other Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,c,java,kotlin,dart,go,rust&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,dart,go,rust&perline=8" />
 
 </td>
 <td align="center" width="50%">
@@ -66,7 +119,7 @@ const samet = {
 
 **🗃️ Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=6" />
 
 </td>
 </tr>
@@ -80,37 +133,37 @@ const samet = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [LocalMind](https://github.com/sametgurtuna/localmind)
+### 🎮 [CS2STATS](https://github.com/sametgurtuna/CS2STATS)
 
-> *AI-powered desktop file search — fully offline, fully yours.*
+> *Counter-Strike 2 stats, explored.*
 
-A **Tauri + React + Python** desktop app that indexes your files and lets you search them with natural language. Embeddings, vector storage, retrieval — all running on your machine. Spotlight, but with a brain.
+A clean stats explorer for CS2 players — clutch ratios, weapon breakdowns, the works. Born from a love of competitive games and good data viz.
 
-`Tauri` `Rust` `TypeScript` `Python` `FastAPI` `LanceDB`
+`TypeScript` `React` `Game Data`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [github-rater](https://github.com/sametgurtuna/github-rater)
+### 🧠 [LocalMind](https://github.com/sametgurtuna/localmind)
 
-> *Check your GitHub rating, view results and enhance your profile quality.*
+> *AI-powered desktop file search — fully offline, fully yours.*
 
-A TypeScript tool that scores your GitHub profile and surfaces concrete ways to level it up. Honest signal, no fluff.
+A **Tauri + React + Python** desktop app that indexes your files and lets you search them with natural language. Spotlight, but with a brain. Zero cloud, zero telemetry.
 
-`TypeScript` `Node.js` `GitHub API`
+`Tauri` `Rust` `TypeScript` `Python` `LanceDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [CS2STATS](https://github.com/sametgurtuna/CS2STATS)
+### 📊 [github-rater](https://github.com/sametgurtuna/github-rater)
 
-> *Counter-Strike 2 stats, explored.*
+> *Score your GitHub profile. Level it up.*
 
-A clean stats explorer for CS2 players — clutch ratios, weapon breakdowns, the works.
+A TypeScript tool that rates your profile and surfaces concrete ways to improve it. Honest signal, no fluff.
 
-`TypeScript` `React`
+`TypeScript` `Node.js` `GitHub API`
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +172,7 @@ A clean stats explorer for CS2 players — clutch ratios, weapon breakdowns, the
 
 > *Türkiye, served from your terminal.*
 
-A JavaScript CLI for quick, fun information about Türkiye — cities, regions, stats — all without leaving the shell.
+A JavaScript CLI for quick info about Türkiye — cities, regions, stats — all without leaving the shell.
 
 `JavaScript` `Node.js` `CLI`
 
@@ -129,7 +182,18 @@ A JavaScript CLI for quick, fun information about Türkiye — cities, regions, 
 
 <br/>
 
-## 📊 &nbsp;The Numbers
+## 🎯 &nbsp;Currently Crafting
+
+```diff
++ 🎮  Game prototypes — exploring mechanics, feel & narrative
++ 🧠  LocalMind v2 — better embeddings, faster indexing
++ 🦀  Learning Rust deeper for native performance
++ 🎓  Final-year Digital Game Design coursework
+```
+
+<br/>
+
+## 📊 &nbsp;Stats Sheet
 
 <div align="center">
 
@@ -152,7 +216,7 @@ A JavaScript CLI for quick, fun information about Türkiye — cities, regions, 
 </details>
 
 <details>
-<summary><b>🏆 Trophies</b></summary>
+<summary><b>🏆 Achievements</b></summary>
 
 <br/>
 
@@ -164,13 +228,28 @@ A JavaScript CLI for quick, fun information about Türkiye — cities, regions, 
 
 <br/>
 
+## 🎲 &nbsp;Dev Philosophy
+
+<div align="center">
+
+> *"A game is a series of interesting choices."* — **Sid Meier**
+>
+> I build with that in mind — whether it's a boss fight, a UI flow, or a search bar.
+> Every interaction should feel **deliberate, satisfying, and a little bit magical.** ✨
+
+</div>
+
+<br/>
+
 ## 🤝 &nbsp;Let's Build Something
 
 <div align="center">
 
-I'm always up for a good conversation about side projects, game design, AI tooling, or trading code recommendations.
+Got a game idea? An indie project? A wild side quest?
 <br/>
-**Open to internships, collaborations, and freelance work.**
+**I'm open to studio internships, indie collabs, and freelance work.**
+<br/>
+Always down to talk game design, AI, or trade dev war stories.
 
 <br/>
 
@@ -179,5 +258,7 @@ I'm always up for a good conversation about side projects, game design, AI tooli
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+
+<sub>⭐ <em>Thanks for stopping by — now go make something awesome.</em></sub>
 
 </div>
