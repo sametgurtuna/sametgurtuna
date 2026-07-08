@@ -149,10 +149,6 @@ A clean stats explorer for CS2 players clutch ratios, weapon breakdowns, the wor
 An open-source desktop companion that controls your OS and answers queries with zero cloud dependency. Fast, private, and deeply integrated.
 
 <br>
-<img src="https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-Local-1a1a2e.svg?style=flat&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/PyQt6-UI-41cd52.svg?style=flat&logo=qt&logoColor=white" />
-
 </td>
 
 
