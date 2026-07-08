@@ -23,7 +23,7 @@
 ```ts
 const samet = {
   role:         "🎮 Game Developer",
-  education:    "Halic University — Digital Game Design",
+  education:    "Halic University   Digital Game Design",
   location:     "Istanbul, Türkiye 🏠",
   experience:   "~6 years coding • building worlds, mechanics & feel",
   craftingNow:  ["game prototypes 🎲", "LocalMind", "tools devs actually want"],
@@ -137,25 +137,24 @@ const samet = {
 
 > *Counter-Strike 2 stats, explored.*
 
-A clean stats explorer for CS2 players — clutch ratios, weapon breakdowns, the works. Born from a love of competitive games and good data viz.
+A clean stats explorer for CS2 players clutch ratios, weapon breakdowns, the works. Born from a love of competitive games and good data viz.
 
 `TypeScript` `React` `Game Data`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [LocalMind](https://github.com/sametgurtuna/localmind)
+### 🧠 [SAM](https://github.com/sametgurtuna/SAM)
+**Smart Assistant Module — Fully Local Voice AI** <br>
+An open-source desktop companion that controls your OS and answers queries with zero cloud dependency. Fast, private, and deeply integrated.
 
-> *AI-powered desktop file search — fully offline, fully yours.*
-
-A **Tauri + React + Python** desktop app that indexes your files and lets you search them with natural language. Spotlight, but with a brain. Zero cloud, zero telemetry.
-
-`Tauri` `Rust` `TypeScript` `Python` `LanceDB`
+<br>
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-Local-1a1a2e.svg?style=flat&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt6-UI-41cd52.svg?style=flat&logo=qt&logoColor=white" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+
 
 ### 📊 [github-rater](https://github.com/sametgurtuna/github-rater)
 
@@ -172,7 +171,7 @@ A TypeScript tool that rates your profile and surfaces concrete ways to improve 
 
 > *Türkiye, served from your terminal.*
 
-A JavaScript CLI for quick info about Türkiye — cities, regions, stats — all without leaving the shell.
+A JavaScript CLI for quick info about Türkiye cities, regions, stats all without leaving the shell.
 
 `JavaScript` `Node.js` `CLI`
 
@@ -185,8 +184,8 @@ A JavaScript CLI for quick info about Türkiye — cities, regions, stats — al
 ## 🎯 &nbsp;Currently Crafting
 
 ```diff
-+ 🎮  Game prototypes — exploring mechanics, feel & narrative
-+ 🧠  LocalMind v2 — better embeddings, faster indexing
++ 🎮  Game prototypes exploring mechanics, feel & narrative
++ 🧠  LocalMind v2 better embeddings, faster indexing
 + 🦀  Learning Rust deeper for native performance
 + 🎓  Final-year Digital Game Design coursework
 ```
@@ -232,9 +231,9 @@ A JavaScript CLI for quick info about Türkiye — cities, regions, stats — al
 
 <div align="center">
 
-> *"A game is a series of interesting choices."* — **Sid Meier**
+> *"A game is a series of interesting choices."* **Sid Meier**
 >
-> I build with that in mind — whether it's a boss fight, a UI flow, or a search bar.
+> I build with that in mind whether it's a boss fight, a UI flow, or a search bar.
 > Every interaction should feel **deliberate, satisfying, and a little bit magical.** ✨
 
 </div>
@@ -259,6 +258,6 @@ Always down to talk game design, AI, or trade dev war stories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
-<sub>⭐ <em>Thanks for stopping by — now go make something awesome.</em></sub>
+<sub>⭐ <em>Thanks for stopping by now go make something awesome.</em></sub>
 
 </div>
