@@ -183,7 +183,7 @@ A JavaScript CLI for quick info about Türkiye cities, regions, stats all withou
 + 🎮  Game prototypes exploring mechanics, feel & narrative
 + 🧠  LocalMind v2 better embeddings, faster indexing
 + 🦀  Learning Rust deeper for native performance
-+ 🎓  Final-year Digital Game Design coursework
++ 🎓  Final-year Digital Game Design student
 ```
 
 <br/>
