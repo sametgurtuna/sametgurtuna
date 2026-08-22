@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Samet Gürtuna — Game Developer, Digital Game Design, Istanbul">
+  <defs>
+    <clipPath id="lower">
+      <rect x="900" y="170" width="220" height="120"/>
+    </clipPath>
+    <clipPath id="upper">
+      <rect x="900" y="40" width="220" height="130"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" fill="#F4F1EC"/>
+  <rect width="1200" height="1" fill="#DCD6CB"/>
+  <rect y="299" width="1200" height="1" fill="#DCD6CB"/>
+
+  <!-- horizon -->
+  <line x1="72" y1="170" x2="1128" y2="170" stroke="#CFC8BB" stroke-width="1"/>
+
+  <!-- sun over horizon -->
+  <g clip-path="url(#upper)">
+    <circle cx="1010" cy="170" r="62" fill="none" stroke="#6B7C74" stroke-width="1.25"/>
+  </g>
+  <g clip-path="url(#lower)">
+    <g stroke="#6B7C74" stroke-width="1.25" opacity="0.55">
+      <line x1="962" y1="182" x2="1058" y2="182"/>
+      <line x1="970" y1="194" x2="1050" y2="194"/>
+      <line x1="980" y1="206" x2="1040" y2="206"/>
+      <line x1="992" y1="218" x2="1028" y2="218"/>
+    </g>
+  </g>
+
+  <!-- wordmark -->
+  <text x="72" y="132" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="54" font-weight="300" letter-spacing="10" fill="#23211E">SAMET GÜRTUNA</text>
+
+  <text x="74" y="205" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="5.5" fill="#7A756D">GAME DEVELOPER</text>
+  <text x="74" y="231" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="5.5" fill="#7A756D">DIGITAL GAME DESIGN STUDENT</text>
+  <text x="74" y="257" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="5.5" fill="#7A756D">ISTANBUL</text>
+
+  <line x1="72" y1="176" x2="72" y2="264" stroke="#6B7C74" stroke-width="1"/>
+</svg>
