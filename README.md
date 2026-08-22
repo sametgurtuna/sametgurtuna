@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sametgurtuna/sametgurtuna/assets/banner.svg" width="100%" alt="Samet Gürtuna" />
+<img src="https://raw.githubusercontent.com/sametgurtuna/sametgurtuna/9ccb36608f60512cbe8b7dfa1b3e8a018f9ed12b/assets/banner.svg" width="100%" alt="Samet Gürtuna" />
 
 <div align="center">
 <sub>
